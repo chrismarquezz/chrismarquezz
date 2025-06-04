@@ -20,6 +20,6 @@ Developer Tools: AWS, Firebase, Postman, Git, GitHub, Figma
 
 📫 Let’s connect!
 
-Email: cmarquez@villanova.com
+Email: cmarquez@villanova.edu
 
 LinkedIn: [Click here](https://www.linkedin.com/in/chris--marquez/)
