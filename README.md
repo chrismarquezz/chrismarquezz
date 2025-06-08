@@ -10,13 +10,15 @@ Internships or new grad opportunities starting in 2026
 
 **💡 My skills include:**
 
-**Languages:** Python, Java, JavaScript, SQL, HTML/CSS, Swift
+**Languages:** Python, Java, JavaScript, Swift
 
-**Frameworks & Tools:** React, Node.js, TailwindCSS, BeautifulSoup
+**Frontend Development:** React, HTML/CSS, TailwindCSS, Figma
 
-**Developer Tools:** AWS, Firebase, Postman, Git, GitHub, Figma
+**Backend Development:** Node.js, DynamoDB, BeautifulSoup
 
-👉 Check out my repositories below for my projects!
+**Developer Tools:** AWS, Postman, Vercel, Git, GitHub
+
+👉 Check out my repositories for my projects!
 
 **📫 Let’s connect!**
 
