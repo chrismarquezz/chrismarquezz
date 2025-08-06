@@ -12,7 +12,7 @@ Internships or new grad opportunities starting in 2026
 
 **Languages:** Python, Java, JavaScript, Swift
 
-**Frontend Development:** React, HTML/CSS, TailwindCSS, Figma
+**Frontend Development:** React, Vite, HTML/CSS, TailwindCSS, Figma
 
 **Backend Development:** Node.js, DynamoDB, BeautifulSoup
 
