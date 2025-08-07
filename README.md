@@ -26,4 +26,4 @@ Internships or new grad opportunities starting in 2026
 
 **LinkedIn:** [Click here](https://www.linkedin.com/in/chris--marquez/)
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/apichrismarquezzanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismarquezz)](https://github.com/anuraghazra/github-readme-stats)
