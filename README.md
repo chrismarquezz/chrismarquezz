@@ -25,3 +25,5 @@ Internships or new grad opportunities starting in 2026
 **Email:** cmarquez@villanova.edu
 
 **LinkedIn:** [Click here](https://www.linkedin.com/in/chris--marquez/)
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?chrismarquezz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
