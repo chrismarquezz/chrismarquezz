@@ -1,7 +1,5 @@
 ## Chris Marquez
-[![Gmail Badge](https://img.shields.io/badge/cmarquez@villanova.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmarquez@villanova.edu)](mailto:cmarquez@villanova.edu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chris%2D%2Dmarquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris--marquez/)
-[![Portfolio Badge](https://img.shields.io/badge/chrismarquez.dev-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://www.chrismarquez.dev/)
+
 <p align='left'>
 I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
 </p>
