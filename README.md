@@ -1,6 +1,6 @@
 ## Chris Marquez
 [![Email](https://img.shields.io/badge/Email-cmarquez@villanova.edu-1E90FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:cmarquez@villanova.edu)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris--marquez/)
+[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris--marquez/)
 [![GitHub](https://img.shields.io/badge/GitHub-chrismarquezz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrismarquezz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-chrismarquez.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.chrismarquez.dev)
 <p align='left'>
