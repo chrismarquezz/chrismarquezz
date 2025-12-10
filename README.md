@@ -6,7 +6,7 @@ I'm a computer science student at Villanova University looking for full-time sof
 
 ## Github Stats
 
-## Tech Stack
+## Technologies
 
 <p align="left">
 
