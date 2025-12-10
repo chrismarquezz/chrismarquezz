@@ -1,8 +1,5 @@
 ## Chris Marquez
-[![Email](https://img.shields.io/badge/Email-cmarquez@villanova.edu-1E90FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:cmarquez@villanova.edu)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris--marquez/)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrismarquezz)
-[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.chrismarquez.dev)
+[![Gmail Badge](https://img.shields.io/badge/-cmarquez@villanova.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cmarquez@villanova.edu)](mailto:cmarquez@villanova.edu) [![Linkedin Badge](https://img.shields.io/badge/-chris--marquez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris--marquez/)](https://www.linkedin.com/in/chris--marquez/) [![Github Badge](https://img.shields.io/badge/-chrismarquezz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chrismarquezz/)](https://www.github.com/chrismarquezz/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.chrismarquez.dev//)](https://www.chrismarquez.dev//)
 <p align='left'>
 I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
 </p>
