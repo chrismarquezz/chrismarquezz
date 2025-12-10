@@ -7,8 +7,4 @@ I'm a computer science student at Villanova University looking for full-time sof
 
 ## Github Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chrismarquezz" alt="chrismarquezz" />
-</p>
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
