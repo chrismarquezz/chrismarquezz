@@ -29,15 +29,15 @@ I'm a computer science student at Villanova University looking for full-time sof
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=github-dark&hide_border=true&ring=ffffff&fire=ffffff&side_color=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&hide_current_streak=true&hide_longest_streak=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=github_dark&hide_border=true&layout=compact&title_color=ffffff&icon_color=ffffff&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
           />
           <source 
             media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=buefy&hide_border=true&layout=compact&title_color=2f3640&icon_color=2f3640&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
           />
           <img 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true" 
-            alt="Chris Marquez GitHub Streak"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=buefy&hide_border=true&layout=compact&title_color=2f3640&icon_color=2f3640&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
+            alt="Chris Marquez Total Contributions"
           />
         </picture>
       </td>
