@@ -4,7 +4,7 @@
 I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table>
