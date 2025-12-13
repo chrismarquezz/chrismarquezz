@@ -1,8 +1,12 @@
 ## Chris Marquez
 
-<p align='left'>
-I'm a Computer Science student at Villanova University actively seeking full-time Software Engineer/Developer roles starting Summer 2026. Please feel free to connect!
+<p align="left">    
+    <a href="mailto:cmarquez@villanova.edu" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
+
+I am actively seeking **full-time Software Engineer/Developer roles** starting **Summer 2026**. Let's connect!
+
+---
 
 ## GitHub Stats
 
