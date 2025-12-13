@@ -4,7 +4,7 @@
 I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -29,29 +29,20 @@ I'm a computer science student at Villanova University looking for full-time sof
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=github-dark&hide_border=true&ring=ffffff&fire=ffffff&side_color=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=github-dark&hide_border=true&ring=ffffff&fire=ffffff&side_color=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&hide_current_streak=true&hide_longest_streak=true"
           />
           <source 
             media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true"
           />
           <img 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true" 
             alt="Chris Marquez GitHub Streak"
           />
         </picture>
       </td>
     </tr>
   </table>
-</div>
-
-## Trophies
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=chrismarquezz&theme=gitdim&no-frame=true&no-bg=true" 
-    alt="Chris Marquez GitHub Trophies"
-  />
 </div>
 
 ## Technologies
