@@ -1,7 +1,7 @@
 ## Chris Marquez
 
 <p align='left'>
-I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
+I'm a Computer Science student at Villanova University actively seeking full-time Software Engineer/Developer roles starting Summer 2026. Please feel free to connect!
 </p>
 
 ## GitHub Stats
