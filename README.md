@@ -45,6 +45,15 @@ I'm a computer science student at Villanova University looking for full-time sof
   </table>
 </div>
 
+## Trophies
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chrismarquezz&theme=gitdim&no-frame=true&no-bg=true" 
+    alt="Chris Marquez GitHub Trophies"
+  />
+</div>
+
 ## Technologies
 
 <p align="left">
