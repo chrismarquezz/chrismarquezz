@@ -1,8 +1,7 @@
 ## Chris Marquez
 
 <p align="left">    
-    <a href="mailto:cmarquez@villanova.edu" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-</p>
+    <a href="mailto:cmarquez@villanova.edu" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook Email Badge"/></a></p>
 
 I am actively seeking **full-time Software Engineer/Developer roles** starting **Summer 2026**. Let's connect!
 
@@ -48,6 +47,8 @@ I am actively seeking **full-time Software Engineer/Developer roles** starting *
     </tr>
   </table>
 </div>
+
+---
 
 ## Technologies
 
