@@ -10,28 +10,36 @@ I'm a computer science student at Villanova University looking for full-time sof
   <table>
     <tr>
       <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
-          alt="Chris Marquez GitHub Stats"
-          data-media-query="(prefers-color-scheme: light)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
-          alt="Chris Marquez GitHub Stats"
-          data-media-query="(prefers-color-scheme: dark)"
-        />
+        <picture>
+          <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
+          />
+          <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
+          />
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs" 
+            alt="Chris Marquez GitHub Stats"
+          />
+        </picture>
       </td>
       <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=339933&icon_color=61DAFB" 
-          alt="Chris Marquez Top Languages"
-          data-media-query="(prefers-color-scheme: light)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=339933&icon_color=61DAFB" 
-          alt="Chris Marquez Top Languages"
-          data-media-query="(prefers-color-scheme: dark)"
-        />
+        <picture>
+          <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=339933&icon_color=61DAFB" 
+          />
+          <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=339933&icon_color=61DAFB" 
+          />
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=339933&icon_color=61DAFB" 
+            alt="Chris Marquez Top Languages"
+          />
+        </picture>
       </td>
     </tr>
   </table>
