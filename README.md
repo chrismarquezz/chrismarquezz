@@ -11,7 +11,7 @@ I'm a computer science student at Villanova University looking for full-time sof
     <tr>
       <td align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB" 
+          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs" 
           alt="Chris Marquez GitHub Stats"
         />
       </td>
