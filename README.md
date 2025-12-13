@@ -48,6 +48,7 @@ I am actively seeking **full-time Software Engineer/Developer roles** starting *
     </tr>
   </table>
 </div>
+---
 
 ## Technologies
 
