@@ -11,14 +11,26 @@ I'm a computer science student at Villanova University looking for full-time sof
     <tr>
       <td align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs" 
+          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
           alt="Chris Marquez GitHub Stats"
+          data-media-query="(prefers-color-scheme: light)"
+        />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=339933&icon_color=61DAFB&hide=contribs"
+          alt="Chris Marquez GitHub Stats"
+          data-media-query="(prefers-color-scheme: dark)"
         />
       </td>
       <td align="center">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=339933&icon_color=61DAFB" 
           alt="Chris Marquez Top Languages"
+          data-media-query="(prefers-color-scheme: light)"
+        />
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=339933&icon_color=61DAFB" 
+          alt="Chris Marquez Top Languages"
+          data-media-query="(prefers-color-scheme: dark)"
         />
       </td>
     </tr>
