@@ -4,7 +4,7 @@
 I'm a computer science student at Villanova University looking for full-time software engineer/developer roles. Please feel free to connect!
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table>
@@ -29,15 +29,15 @@ I'm a computer science student at Villanova University looking for full-time sof
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=github-dark&hide_border=true&ring=ffffff&fire=ffffff&side_color=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff"
           />
           <source 
             media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=2f3640&icon_color=2f3640" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true"
           />
           <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=2f3640&icon_color=2f3640" 
-            alt="Chris Marquez Top Languages"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=chrismarquezz&theme=default&hide_border=true" 
+            alt="Chris Marquez GitHub Streak"
           />
         </picture>
       </td>
