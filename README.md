@@ -14,23 +14,7 @@ I am currently a senior at **Villanova University** studying **CS**. I am active
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <picture>
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=ffffff&hide=contribs"
-          />
-          <source 
-            media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=2f3640&icon_color=2f3640&hide=contribs"
-          />
-          <img 
-            src="https://github-readme-stats.vercel.app/api?username=chrismarquezz&show_icons=true&theme=buefy&hide_border=true&count_private=true&title_color=2f3640&icon_color=2f3640&hide=contribs" 
-            alt="Chris Marquez GitHub Stats"
-          />
-        </picture>
-      </td>
-      <td align="center">
+      <td align="left">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
