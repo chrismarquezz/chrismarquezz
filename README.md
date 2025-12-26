@@ -11,7 +11,7 @@ I am currently a senior at **Villanova University** studying **CS**. I am active
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="left">
