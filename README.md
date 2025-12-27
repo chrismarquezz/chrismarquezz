@@ -9,33 +9,6 @@ I am currently a senior at **Villanova University** studying **CS**. I am active
 
 ---
 
-## GitHub Stats
-
-<div align="left">
-  <table>
-    <tr>
-      <td align="left">
-        <picture>
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=github_dark&hide_border=true&layout=compact&title_color=ffffff&icon_color=ffffff&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
-          />
-          <source 
-            media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=buefy&hide_border=true&layout=compact&title_color=2f3640&icon_color=2f3640&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
-          />
-          <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismarquezz&theme=buefy&hide_border=true&layout=compact&title_color=2f3640&icon_color=2f3640&hide=HTML,CSS,Shell,C,C%2B%2B,Ruby,Go,Java,Swift,Python,JavaScript,TypeScript,React,Node.js&custom_title=Total+Contributions" 
-            alt="Chris Marquez Total Contributions"
-          />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## Technologies & Tools
 
 ### Frontend Development
