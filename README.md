@@ -5,6 +5,6 @@
     <a href="https://www.linkedin.com/in/chris--marquez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.chrismarquez.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logoColor=white" /></a>
     
-Recently graduated from Villanova University with a B.S. in Computer Science. M.S. Computer Science student at Georgia Institute of Technology, specializing in Machine Learning.
+Recently graduated from Villanova University with a B.S. in Computer Science. 
 
 ---
